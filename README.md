@@ -14,9 +14,11 @@
 
 121 122 125 127 129 130 131 133 134 136 138 139
 
-141 142 143 144 145 147 148 150 151 153 155 160
+141 142 143 144 145 147 148 150 151 152 153 154 155 160
 
-162 165 166 167 168
+162 164 165 166 167 168 169 171 172 173 179 
+
+187 188 189 190 191 198 199 200
 
 #### WA
 
@@ -32,4 +34,4 @@
 
 [102](https://github.com/Sylvanuszhy/LeetCode/blob/master/102/README.md) [103](https://github.com/Sylvanuszhy/LeetCode/blob/master/103/README.md) [105](https://github.com/Sylvanuszhy/LeetCode/blob/master/105/README.md) [106](https://github.com/Sylvanuszhy/LeetCode/blob/master/106/README.md) [108](https://github.com/Sylvanuszhy/LeetCode/blob/master/108/README.md) [109](https://github.com/Sylvanuszhy/LeetCode/blob/master/109/README.md) [114](https://github.com/Sylvanuszhy/LeetCode/blob/master/114/README.md) [117](https://github.com/Sylvanuszhy/LeetCode/blob/master/117/README.md) [122](https://github.com/Sylvanuszhy/LeetCode/blob/master/122/README.md) [127](https://github.com/Sylvanuszhy/LeetCode/blob/master/127/README.md) [130](https://github.com/Sylvanuszhy/LeetCode/blob/master/130/README.md) [131](https://github.com/Sylvanuszhy/LeetCode/blob/master/131/README.md) [133](https://github.com/Sylvanuszhy/LeetCode/blob/master/133/README.md) [134](https://github.com/Sylvanuszhy/LeetCode/blob/master/134/README.md) [136](https://github.com/Sylvanuszhy/LeetCode/blob/master/136/README.md) [138](https://github.com/Sylvanuszhy/LeetCode/blob/master/138/README.md) [139](https://github.com/Sylvanuszhy/LeetCode/blob/master/139/README.md) [141](https://github.com/Sylvanuszhy/LeetCode/blob/master/141/README.md) [142](https://github.com/Sylvanuszhy/LeetCode/blob/master/142/README.md) [143](https://github.com/Sylvanuszhy/LeetCode/blob/master/143/README.md) [144](https://github.com/Sylvanuszhy/LeetCode/blob/master/144/README.md) [145](https://github.com/Sylvanuszhy/LeetCode/blob/master/145/README.md) [148](https://github.com/Sylvanuszhy/LeetCode/blob/master/148/README.md) 
 
-[155](https://github.com/Sylvanuszhy/LeetCode/blob/master/155/README.md) [160](https://github.com/Sylvanuszhy/LeetCode/blob/master/160/README.md) [162](https://github.com/Sylvanuszhy/LeetCode/blob/master/162/README.md) [166](https://github.com/Sylvanuszhy/LeetCode/blob/master/166/README.md) 
+[152](https://github.com/Sylvanuszhy/LeetCode/blob/master/152/README.md) [155](https://github.com/Sylvanuszhy/LeetCode/blob/master/155/README.md) [160](https://github.com/Sylvanuszhy/LeetCode/blob/master/160/README.md) [162](https://github.com/Sylvanuszhy/LeetCode/blob/master/162/README.md) [164](https://github.com/Sylvanuszhy/LeetCode/blob/master/164/README.md) [166](https://github.com/Sylvanuszhy/LeetCode/blob/master/166/README.md) [169](https://github.com/Sylvanuszhy/LeetCode/blob/master/169/README.md) [179](https://github.com/Sylvanuszhy/LeetCode/blob/master/179/README.md) [188](https://github.com/Sylvanuszhy/LeetCode/blob/master/188/README.md) [189](https://github.com/Sylvanuszhy/LeetCode/blob/master/189/README.md) [198](https://github.com/Sylvanuszhy/LeetCode/blob/master/198/README.md) 
